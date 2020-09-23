@@ -1,0 +1,19 @@
+{ - 
+  "covid1": { - 
+    "mappings": { - 
+      "properties": { - 
+        "created_at": { - 
+          "type": "date",
+          "format": "EEE MMM dd HH:mm:ss Z YYYY||dd/MM/yyyy||dd-MM yyyy||date_optional_time"
+        },
+        "coordinates": {
+                    "properties": {
+                      "coordinates": {
+                        "type": "geo_point"
+                      }
+                    }
+        }
+      }
+    }
+  }
+}
