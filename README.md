@@ -15,3 +15,5 @@ Objetivos Generales:
 Objetivos Específicos: 
 
   Realizar un análisis de datos utilizando las diferentes herramientas para poder interpretar los datos recolectados. 
+  
+  Cabe recalcar que todos los datos como scripts se encuentran sepoarados por carpetas y los archivos grandes subidos a Google Drive con link de igual manera anexado a este Repositorio, ademas se encuntran algunos archivos de las visualizaciones creadas a partir de todos los datos recolectados. 
